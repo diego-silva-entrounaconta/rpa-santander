@@ -1,0 +1,6 @@
+- abrir chorme
+- login
+- navegar para comissão
+- consultar de Fatura
+- colocar código de comissionado e pesquisar
+- procurar pelas faturas que estejam com statuus em aberto e clicar nelas
